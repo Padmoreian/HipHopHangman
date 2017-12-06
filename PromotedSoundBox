@@ -1,0 +1,7 @@
+TITLE = "John the rapper";
+LINK = "https://loli.dance";
+
+
+//Title: if - DEFAULT - it will use the one saved in the apk building
+//Title: if - SAVED - it will use thelast one downloaded (or default if it hasnt one)
+//Title: if - DISABLED - the button will disappear
