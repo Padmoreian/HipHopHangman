@@ -1,7 +1,19 @@
-TITLE = "John the rapper";
+SUBTITLE = "John the rapper";
 LINK = "https://loli.dance";
 
 
-//Title: if - DEFAULT - it will use the one saved in the apk building
-//Title: if - SAVED - it will use thelast one downloaded (or default if it hasnt one)
-//Title: if - DISABLED - the button will disappear
+
+
+//HOW TO USE
+//Subtitle: if - DEFAULT - it will use the one saved in the apk building
+//Subtitle: if - SAVED - it will use thelast one downloaded (or default if it hasnt one)
+//Subtitle: if - DISABLED - the button will disappear
+//Subtitle: if it is empty, there will work, but the subtitle will be empty.
+//Subtitle: if any other, the subtitle will change to this one
+
+
+//HELP NOTES
+//All lines must end with point and colon. Dont use it in any other case.
+//The text must be perfectly written between the first and the second quote of each line. Dont use quotes in any other case.
+//The rest of the text doesn't matter.
+//The first line always will contain the title, the second line contain be the link
